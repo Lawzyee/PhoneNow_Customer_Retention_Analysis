@@ -15,32 +15,6 @@ The raw dataset used for this analysis includes several important fields such as
 You can download the dataset here:
 - [Download Raw Dataset (Excel)](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/02%20Churn-Dataset.xlsx)
 
-**Dataset column headers:**
-- `customerID`, 
-- `gender`, 
-- `SeniorCitizen`, 
-- `Partner`, 
-- `Dependents`
-- `tenure`, 
-- `PhoneService`, 
-- `MultipleLines`, 
-- `InternetService`, 
-- `OnlineSecurity`
-- `OnlineBackup`, 
-- `DeviceProtection`, 
-- `TechSupport`, 
-- `StreamingTV`, 
-- `StreamingMovies`
-- `Contract`, 
-- `PaperlessBilling`, 
-- `PaymentMethod`, 
-- `MonthlyCharges`, 
-- `TotalCharges`
-- `numAdminTickets`, 
-- `numTechTickets`, 
-- `Churn`
-
-
 ## Here is a brief definition of the dataset column headers:
 
 - `customerID`: Unique identifier assigned to each customer.
