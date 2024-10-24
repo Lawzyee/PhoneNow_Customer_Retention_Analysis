@@ -43,29 +43,51 @@ You can download the dataset here:
 
 ## Here is a brief definition of the dataset column headers:
 
-customerID: Unique identifier assigned to each customer.
-gender: Gender of the customer (Male or Female).
-SeniorCitizen: Indicator if the customer is a senior citizen (1 for Yes, 0 for No).
-Partner: Indicator if the customer has a partner (Yes or No).
-Dependents: Indicator if the customer has dependents (Yes or No).
-tenure: The number of months the customer has been with the company.
-PhoneService: Indicator if the customer subscribes to phone services (Yes or No).
-MultipleLines: Indicator if the customer has multiple phone lines (Yes, No, or No Phone Service).
-InternetService: Type of internet service subscribed (DSL, Fiber optic, or No).
-OnlineSecurity: Indicator if the customer subscribes to online security services (Yes or No).
-OnlineBackup: Indicator if the customer subscribes to online backup services (Yes or No).
-DeviceProtection: Indicator if the customer subscribes to device protection services (Yes or No).
-TechSupport: Indicator if the customer subscribes to technical support services (Yes or No).
-StreamingTV: Indicator if the customer subscribes to streaming TV services (Yes or No).
-StreamingMovies: Indicator if the customer subscribes to streaming movie services (Yes or No).
-Contract: Type of contract the customer is on (Month-to-month, One year, Two year).
-PaperlessBilling: Indicator if the customer uses paperless billing (Yes or No).
-PaymentMethod: The method of payment used by the customer (Electronic check, Mailed check, Bank transfer, or Credit card).
-MonthlyCharges: The monthly charges billed to the customer.
-TotalCharges: The total charges billed to the customer.
-numAdminTickets: The number of administrative support tickets the customer has submitted.
-numTechTickets: The number of technical support tickets the customer has submitted.
-Churn: Indicator if the customer has churned (Yes or No).
+- `customerID`: Unique identifier assigned to each customer.
+
+- `gender`: Gender of the customer (Male or Female).
+
+- `SeniorCitizen`: Indicator if the customer is a senior citizen (1 for Yes, 0 for No).
+
+- `Partner`: Indicator if the customer has a partner (Yes or No).
+
+- `Dependents`: Indicator if the customer has dependents (Yes or No).
+
+- `tenure`: The number of months the customer has been with the company.
+
+- `PhoneService`: Indicator if the customer subscribes to phone services (Yes or No).
+
+- `MultipleLines`: Indicator if the customer has multiple phone lines (Yes, No, or No Phone Service).
+
+- `InternetService`: Type of internet service subscribed (DSL, Fiber optic, or No).
+
+- `OnlineSecurity`: Indicator if the customer subscribes to online security services (Yes or No).
+
+- `OnlineBackup`: Indicator if the customer subscribes to online backup services (Yes or No).
+
+- `DeviceProtection`: Indicator if the customer subscribes to device protection services (Yes or No).
+
+- `TechSupport`: Indicator if the customer subscribes to technical support services (Yes or No).
+
+- `StreamingTV`: Indicator if the customer subscribes to streaming TV services (Yes or No).
+
+- `StreamingMovies`: Indicator if the customer subscribes to streaming movie services (Yes or No).
+
+- `Contract`: Type of contract the customer is on (Month-to-month, One year, Two year).
+
+- `PaperlessBilling`: Indicator if the customer uses paperless billing (Yes or No).
+
+- `PaymentMethod`: The method of payment used by the customer (Electronic check, Mailed check, Bank transfer, or Credit card).
+
+- `MonthlyCharges`: The monthly charges billed to the customer
+
+- `TotalCharges`: The total charges billed to the customer.
+
+- `numAdminTickets`: The number of administrative support tickets the customer has submitted.
+
+- `numTechTickets`: The number of technical support tickets the customer has submitted.
+
+- `Churn`: Indicator if the customer has churned (Yes or No).
 
 
 ## Tasks
