@@ -91,10 +91,6 @@ After the initial data cleaning, several measures were created to help analyze t
    Count of Churn for Yes = CALCULATE(COUNTA('churn'[Churn]), 'churn'[Churn] IN { "Yes" })
 
 For more information on Calculations and Measures please see **Calculations and Measures file**
-For the analysis, several DAX measures and calculations were used after initial data cleaning. You can download the file containing these calculations from the link below:
-
-Download Churn Calculations and Measures
-
 
 ## Dashboards
 Two interactive dashboards were created using **Power BI** to visualize the data and KPIs:
